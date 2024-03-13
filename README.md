@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Vijayendra Nayak - Full-Stack Developer</title>
-</head>
-<body>
 
 <h1 align="center">Hi 👋, I'm Vijayendra Nayak</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
