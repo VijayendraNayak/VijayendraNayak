@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayendranayak&label=Profile%20views&color=0e75b6&style=flat" alt="vijayendranayak" /> </p>
 
-- 🔭 I’m currently working on [Kulkunda Temple Official Website](basavanamoolatemple.in)
-
 - 🌱 I’m currently learning **Nextjs, Reactjs, Tailwind, Java, Flask, Django**
 
 - 👯 I’m looking to collaborate on **Linkedin and fiverr**
