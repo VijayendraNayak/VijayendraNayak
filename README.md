@@ -6,11 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayendranayak&label=Profile%20views&color=0e75b6&style=flat" alt="vijayendranayak" /> </p>
 
-- 🌱 I’m currently learning **Nextjs, Reactjs, Tailwind, Java, Flask, Django**
-
 - 👯 I’m looking to collaborate on **Linkedin and fiverr**
-
-- 🤝 I’m looking for help with **Web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VijayendraNayak](https://github.com/VijayendraNayak)
 
