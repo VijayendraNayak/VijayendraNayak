@@ -24,7 +24,7 @@ const vijayendra = {
     location: "India",
     role: "Full Stack Developer",
     code: ["JavaScript", "TypeScript", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    askMeAbout: ["web dev", "tech", "Problem solving"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js", "Three.js"],
