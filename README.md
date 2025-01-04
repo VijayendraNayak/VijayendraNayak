@@ -16,8 +16,6 @@
 
 <br/>
 
-<img align="right" alt="coding animation" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 ### 🚀 About Me
 
 ```typescript
@@ -51,10 +49,14 @@ const vijayendra = {
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Let's discuss **React, Next.js, Node.js**
 - 📫 Reach me at **vijayendranayak19@gmail.com**
+- 🌐 Check out my portfolio: **[vijayendra.vercel.app](https://vijayendra.vercel.app)**
 
 ### 🤝 Connect With Me
 
 <p align="left">
+  <a href="https://vijayendra.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  </a>
   <a href="https://linkedin.com/in/vijayendranayak" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
