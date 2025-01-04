@@ -12,9 +12,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vijayendranayak&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/VijayendraNayak?tab=followers">
-    <img src="https://img.shields.io/github/followers/VijayendraNayak?label=Followers&style=for-the-badge" alt="followers" />
-  </a>
 </div>
 
 <br/>
@@ -29,7 +26,7 @@ const vijayendra = {
     location: "India",
     role: "Full Stack Developer",
     code: ["JavaScript", "TypeScript", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev", "architecture"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js", "Three.js"],
@@ -50,9 +47,9 @@ const vijayendra = {
 ### 🌟 What I'm Up To
 
 - 🔭 Building scalable and innovative web solutions
-- 🌱 Diving deep into **System Design** & **Cloud Architecture**
+- 🌱 Exploring modern web technologies
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Let's discuss **React, Next.js, Node.js, and System Design**
+- 💬 Let's discuss **React, Next.js, Node.js**
 - 📫 Reach me at **vijayendranayak19@gmail.com**
 
 ### 🤝 Connect With Me
@@ -64,8 +61,8 @@ const vijayendra = {
   <a href="https://www.leetcode.com/vijayendranayak" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" />
   </a>
-  <a href="https://www.hackerrank.com/vijayendranayak" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" />
+  <a href="https://www.geeksforgeeks.org/user/vijayendranayak19" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="geeksforgeeks" />
   </a>
 </p>
 
@@ -110,8 +107,4 @@ const vijayendra = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayendranayak&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijayendranayak&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophy" />
 </div>
