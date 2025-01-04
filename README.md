@@ -37,8 +37,7 @@ const vijayendra = {
         databases: ["MongoDB", "PostgreSQL", "Redis"],
         devOps: ["Docker", "Git", "CI/CD"]
     },
-    currentFocus: "Building Scalable Web Applications",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "Building Scalable Web Applications"
 };
 ```
 
