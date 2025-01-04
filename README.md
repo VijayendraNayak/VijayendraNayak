@@ -58,7 +58,7 @@ const vijayendra = {
   <a href="https://linkedin.com/in/vijayendranayak" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://www.leetcode.com/vijayendranayak" target="_blank">
+  <a href="https://www.leetcode.com/u/Vijayendra_Nayak" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/vijayendranayak19" target="_blank">
