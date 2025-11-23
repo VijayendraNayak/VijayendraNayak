@@ -23,30 +23,32 @@ const vijayendra = {
     pronouns: "he" | "him",
     location: "India",
     role: "Full Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python"],
-    askMeAbout: ["web dev", "tech", "Problem solving"],
+    code: ["Java", "JavaScript", "TypeScript", "Python"],
+    askMeAbout: ["Full stack web development", "System design", "Problem solving"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js", "Three.js"],
             css: ["Tailwind", "Bootstrap"]
         },
         backEnd: {
+            Java: ["Spribgboot"],
             js: ["Node", "Express", "NestJS"],
             python: ["Flask"]
         },
         databases: ["MongoDB", "PostgreSQL", "Redis"],
-        devOps: ["Docker", "Git", "CI/CD"]
+        devOps: ["Docker", "Git", "CI/CD"],
+        tools: ["Postman", "Insomnia", "Jira"]
     },
-    currentFocus: "Building Scalable Web Applications"
+    currentFocus: "Building Scalable Web Applications and learning System design"
 };
 ```
 
 ### 🌟 What I'm Up To
 
 - 🔭 Building scalable and innovative web solutions
-- 🌱 Exploring modern web technologies
+- 🌱 Exploring modern web technologies and exploring System design
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Let's discuss **React, Next.js, Node.js**
+- 💬 Let's discuss **Springboot, React, Next.js, Node.js**
 - 📫 Reach me at **vijayendranayak19@gmail.com**
 - 🌐 Check out my portfolio: **[vijayendra.vercel.app](https://vijayendra.vercel.app)**
 
@@ -80,6 +82,7 @@ const vijayendra = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Backend & Database
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -90,6 +93,7 @@ const vijayendra = {
 
 #### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
